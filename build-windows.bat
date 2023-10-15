@@ -1,0 +1,1 @@
+pyinstaller batchcrop.py --onefile
